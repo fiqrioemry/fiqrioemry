@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate Software Developer with a strong focus on building scalable backend systems and clean frontend interfaces. Experienced in Golang, React, and Docker-based microservices architecture. Driven by a passion for problem-solving, clean code, and delivering impactful digital solutions.
+Passionate Software Developer with hands-on experience in building scalable backend systems and clean, responsive frontend interfaces. Proficient in Golang, Node.js (Express), and modern frontend frameworks like React, Svelte, Vue, and Next.js. Skilled in deploying production-ready applications using NGINX, Docker, and automated CI/CD pipelines. Driven by a love for clean code, system design, and delivering impactful digital solutions end-to-end.
 
 ---
 
