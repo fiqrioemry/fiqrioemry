@@ -13,10 +13,14 @@ Passionate Software Developer with hands-on experience in building scalable back
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Svelte, Vue, Next.js, TailwindCSS
-- **Backend:** Node.js, Express, Go (Gin)
-- **DevOps:** Docker, CI/CD, Deployment
-- **Design:** UI/UX Design
+| Category     | Tech & Tools |
+|--------------|--------------|
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend**  | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-Golang-00ADD8?style=flat&logo=go&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| **DevOps**   | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
+| **Design**   | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) |
 
 ---
 
@@ -58,29 +62,4 @@ E-commerce platform with checkout, discount vouchers, Midtrans payment gateway i
 
 ### 🔹 [FitLife - UI Prototype](https://fitlife.ahmadfiqrioemry.com)  
 **Stack:** Svelte (Frontend-only), Shadcn UI  
-Modern fitness app UI prototype built with Svelte and styled using Shadcn components.
-
----
-
-### 🔹 [FoodBlog - Vue Recipe Showcase](https://foodblog.ahmadfiqrioemry.com)  
-**Stack:** Vue.js (Frontend-only), Shadcn UI, Dummy API  
-Food blogging site with elegant UI, recipe browsing, and integration with dummy API. Learn how to connect and handle the API from third parties.
-
----
-
-## 🌐 Find Me Online
-
-- 🌍 [ahmadfiqrioemry.com](https://ahmadfiqrioemry.com)  
-- 💼 [LinkedIn: ahmadfiqrioemry](https://linkedin.com/in/ahmadfiqrioemry)
-
----
-
-## 📈 GitHub Stats
-
-![Fiqri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiqrioemry&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&hide=jupyter%20notebook&layout=compact&theme=radical)
-
----
-
-<!-- Let's connect and build something amazing! -->
+Modern fitness app UI prototype built with Svelte and styled usin
