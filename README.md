@@ -61,6 +61,31 @@ E-commerce platform with checkout, discount vouchers, Midtrans payment gateway i
 
 ---
 
+### 🔹 [FoodBlog - Vue Recipe Showcase](https://foodblog.ahmadfiqrioemry.com)  
+**Stack:** Vue.js (Frontend-only), Shadcn UI, Dummy API  
+Food blogging site with elegant UI, recipe browsing, and integration with dummy API. Learn how to connect and handle the API from third parties.
+
+---
+
 ### 🔹 [FitLife - UI Prototype](https://fitlife.ahmadfiqrioemry.com)  
 **Stack:** Svelte (Frontend-only), Shadcn UI  
-Modern fitness app UI prototype built with Svelte and styled usin
+Modern fitness app UI prototype built with Svelte and styled using Shadcn components.
+
+---
+
+## 🌐 Find Me Online
+
+- 🌍 [ahmadfiqrioemry.com](https://ahmadfiqrioemry.com)  
+- 💼 [LinkedIn: ahmadfiqrioemry](https://linkedin.com/in/ahmadfiqrioemry)
+
+---
+
+## 📈 GitHub Stats
+
+![Fiqri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiqrioemry&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&hide=jupyter%20notebook&layout=compact&theme=radical)
+
+---
+
+<!-- Let's connect and build something amazing! -->
