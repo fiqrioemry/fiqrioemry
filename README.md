@@ -34,25 +34,25 @@ Passionate Software Developer with a strong focus on building scalable backend s
 
 ### 🔹 [AI Travel Planner](https://aitravelplanner.ahmadfiqrioemry.com)  
 **Stack:** React (TypeScript), Firebase, Google Gemini API  
-AI-powered trip planner that generates personalized travel itineraries instantly.
+AI-powered trip planner that generates personalized travel itineraries instantly. Completely accessible and free, just click the title for demo
 
 ---
 
 ### 🔹 [SweatUp - Fitness Booking App](https://sweatup.ahmadfiqrioemry.com)  
-**Stack:** Go (Gin), React (JavaScript), MySQL, Redis, Cloudinary  
-A full-featured fitness class booking platform with scheduling, packages, and instructor management.
+**Stack:** Go (Gin), React (JavaScript), MySQL, Redis, Cloudinary, Stripe payment gateway  
+A full-featured fitness class booking platform with scheduling, packages, and instructor management. This was a fullstack application hosted using hostinger for the VPS that you can access for demo.
 
 ---
 
 ### 🔹 [Social Media App](https://socialmedia.ahmadfiqrioemry.com)  
 **Stack:** Node.js (Express), React (JavaScript), MySQL, MongoDB, Socket.IO, Redis, Cloudinary  
-Modern social media app with real-time chat, posting system, and scalable architecture.
+Modern social media app with real-time chat, posting system, and scalable architecture. This was a fullstack application hosted using hostinger for the VPS that you can access for demo.
 
 ---
 
 ### 🔹 [HappyShop - E-commerce Platform](https://happyshop.ahmadfiqrioemry.com)  
 **Stack:** Go (Gin), React (JavaScript), MySQL, Redis, Cloudinary  
-E-commerce platform with checkout, discount vouchers, Stripe integration, and real-time updates.
+E-commerce platform with checkout, discount vouchers, Midtrans payment gateway integration, and real-time updates. This was a fullstack application hosted using hostinger for the VPS that you can access for demo.
 
 ---
 
@@ -64,7 +64,7 @@ Modern fitness app UI prototype built with Svelte and styled using Shadcn compon
 
 ### 🔹 [FoodBlog - Vue Recipe Showcase](https://foodblog.ahmadfiqrioemry.com)  
 **Stack:** Vue.js (Frontend-only), Shadcn UI, Dummy API  
-Food blogging site with elegant UI, recipe browsing, and integration with dummy API.
+Food blogging site with elegant UI, recipe browsing, and integration with dummy API. Learn how to connect and handle the API from third parties.
 
 ---
 
