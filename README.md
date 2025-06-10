@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/badge/Website-ahmadfiqrioemry.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://ahmadfiqrioemry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadfiqrioemry-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadfiqrioemry)
+[![Instagram](https://img.shields.io/badge/Instagram-@oemryfiqri-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/oemryfiqri)
+[![Medium](https://img.shields.io/badge/Medium-@foemry-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@foemry)
 
 ---
 
