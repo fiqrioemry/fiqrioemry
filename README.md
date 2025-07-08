@@ -13,7 +13,7 @@
 Passionate Software Developer with hands-on experience in building scalable backend systems and clean, responsive frontend interfaces. Proficient in Golang, Node.js (Express), and modern frontend frameworks like React, Svelte, Vue, and Next.js. Skilled in deploying production-ready applications using NGINX, Docker, and automated CI/CD pipelines. Driven by a love for clean code, system design, and delivering impactful digital solutions end-to-end.
 
 I also wrote all things that i've learned and problem that i face into an articles, you could check it on my page here :
-- 🌍 [my personal blog](https://blogprogramming.ahmadfiqrioemry.com.)  
+[my personal blog](https://blogprogramming.ahmadfiqrioemry.com.)  
 
 
 
