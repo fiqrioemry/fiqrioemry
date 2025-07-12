@@ -16,11 +16,6 @@ I also wrote all things that i've learned and problem that i face into an articl
 
 [my personal blog](https://blogprogramming.ahmadfiqrioemry.com)
 
-And i also make a tutorial from langauge and framework that i've already learned and create a project with it. you could check it out here :
-
-[my tutorial](https://learnprogramming.ahmadfiqrioemry.com)
-
-
 
 ---
 ## 🛠️ Tech Stack
