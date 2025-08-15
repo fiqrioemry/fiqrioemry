@@ -10,9 +10,11 @@
 
 ## 👨‍💻 About Me
 
-Passionate Software Developer with hands-on experience in building scalable backend systems and clean, responsive frontend interfaces. Proficient in Golang, Node.js (Express), and modern frontend frameworks like React, Svelte, Vue, and Next.js. Skilled in deploying production-ready applications using NGINX, Docker, and automated CI/CD pipelines. Driven by a love for clean code, system design, and delivering impactful digital solutions end-to-end.
+Hi, I’m a software developer who loves turning ideas into real, impactful applications. I enjoy building scalable backend systems and crafting clean, responsive frontend experiences. My toolkit includes Golang, Node.js (Express), and modern frontend frameworks like React, Svelte, Vue, and Next.js.
 
-Keep learning and practice everyday, I also wrote all things that i've learned and problem that i face into an articles, you could check it on my page here :
+I’m also comfortable taking projects all the way to production, from coding to deploying with NGINX, Docker, and setting up automated CI/CD pipelines. Clean code, solid system design, and delivering end-to-end solutions are what drive me.
+
+I believe in learning something new every day. Along the way, I document what I learn and the challenges I face in articles on my blog:
 
 [my personal blog](https://blogprogramming.ahmadfiqrioemry.com)
 
@@ -33,15 +35,20 @@ Keep learning and practice everyday, I also wrote all things that i've learned a
 
 ## 🚀 What I Do
 
-- Build robust, scalable backend APIs and microservices in Go and Node.js  
-- Create seamless, interactive frontend experiences with React, Svelte, and Vue  
-- Architect and deploy cloud-native applications using Docker and CI/CD pipelines  
-- Design intuitive and delightful user interfaces  
-- Solve complex problems with clean, maintainable code  
-
+- Build reliable and scalable backend APIs and microservices with Go and Node.js
+- Craft smooth, interactive frontends using React, Svelte, and Nextjs
+- Plan and deploy cloud-ready apps with Docker and automated CI/CD workflows
+- Design user interfaces that feel intuitive and enjoyable to use
+- Break down complex problems into simple, maintainable solutions
 ---
 
 ## 💼 Featured Projects
+
+### 🔹 [Tiketku - Event Booking App](https://tiketku.ahmadfiqrioemry.com)  
+**Stack:** Sveltekit (TypeScript), Mysql, Redis, Stripe payment gateway, Go (gin)
+Tiketku is a fullstack event ticketing application designed to simplify the process of event creation, ticket sales, and transaction management. With support for partial refunds, user withdrawal requests, and QR-based ticket validation, Tiketku delivers a complete solution for event organizers and attendees through a modern and flexible platform.
+
+---
 
 ### 🔹 [AI Travel Planner](https://aitravelplanner.ahmadfiqrioemry.com)  
 **Stack:** React (TypeScript), Firebase, Google Gemini API  
