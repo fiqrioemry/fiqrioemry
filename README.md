@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m a software developer who loves turning ideas into real, impactful applications. I enjoy building scalable backend systems and crafting clean, responsive frontend experiences. My toolkit includes Golang, Node.js (Express), and modern frontend frameworks like React, Svelte, Vue, and Next.js.
+Hi, I’m a software developer who loves turning ideas into real, impactful applications. I enjoy building scalable backend systems and crafting clean, responsive frontend experiences. My toolkit includes Golang, Node.js (Express), Python (FastAPI) and modern frontend frameworks like React, Svelte, Vue, and Next.js.
 
 I’m also comfortable taking projects all the way to production, from coding to deploying with NGINX, Docker, and setting up automated CI/CD pipelines. Clean code, solid system design, and delivering end-to-end solutions are what drive me.
 
@@ -41,19 +41,18 @@ I believe in learning something new every day. Along the way, I document what I 
 - Design user interfaces that feel intuitive and enjoyable to use  
 - Break down complex problems into simple, maintainable solutions  
 
----
-
 ## 💼 Featured Projects
 
-| Project | Type | Tech Stack | Year | Status | Link |
-|---------|------|------------|------|--------|------|
-| 🎟️ **Tiketku - Event Booking App** | Fullstack | SvelteKit (TS), Go (Gin), MySQL, Redis, Stripe | 2024 | Live | [Demo](https://tiketku.ahmadfiqrioemry.com) |
-| ✈️ **AI Travel Planner** | Frontend + API | React (TS), Firebase, Google Gemini API | 2024 | Live | [Demo](https://aitravelplanner.ahmadfiqrioemry.com) |
-| 🏋️ **SweatUp - Fitness Booking App** | Fullstack | Go (Gin), React (JS), MySQL, Redis, Cloudinary, Stripe | 2023 | Live | [Demo](https://sweatup.ahmadfiqrioemry.com) |
-| 💬 **Social Media App** | Fullstack | Node.js, React, MySQL, MongoDB, Socket.IO, Redis | 2023 | Live | [Demo](https://socialmedia.ahmadfiqrioemry.com) |
-| 🛒 **HappyShop - E-commerce Platform** | Fullstack | Go (Gin), React, MySQL, Redis, Midtrans | 2023 | Live | [Demo](https://happyshop.ahmadfiqrioemry.com) |
-| 🍲 **FoodBlog - Vue Recipe Showcase** | Frontend-only | Vue.js, Shadcn UI, Dummy API | 2022 | Live | [Demo](https://foodblog.ahmadfiqrioemry.com) |
-| 🏃 **FitLife - UI Prototype** | Prototype | Svelte, Shadcn UI | 2022 | Prototype | [Demo](https://fitlife.ahmadfiqrioemry.com) |
+| Project | Type | Tech Stack | Year | Live |
+|---------|------|------------|------|------|
+| 🏨 **PesanHotel - Hotel Booking Platform** | Fullstack | Next.js, Prisma, Neon, BetterAuth, Stripe | 2025 | [pesanhotel.showcasepreview.my.id](https://pesanhotel.showcasepreview.my.id) |
+| 🎟️ **Tiketku - Event Booking App** | Fullstack | SvelteKit (TS), Go (Gin), MySQL, Redis, Stripe | 2025 | [tiketku.ahmadfiqrioemry.com](https://tiketku.ahmadfiqrioemry.com) |
+| 🏋️ **SweatUp - Fitness Booking App** | Fullstack | Go (Gin), React (JS), MySQL, Redis, Cloudinary, Stripe | 2024 | [sweatup.ahmadfiqrioemry.com](https://sweatup.ahmadfiqrioemry.com) |
+| 🛒 **HappyShop - E-commerce Platform** | Fullstack | Go (Gin), React, MySQL, Redis, Midtrans | 2024 | [happyshop.ahmadfiqrioemry.com](https://happyshop.ahmadfiqrioemry.com) |
+| ✈️ **AI Travel Planner** | Frontend + API | React (TS), Firebase, Google Gemini API | 2024 | [aitravelplanner.ahmadfiqrioemry.com](https://aitravelplanner.ahmadfiqrioemry.com) |
+| 💬 **Social Media App** | Fullstack | Node.js, React, MySQL, MongoDB, Socket.IO, Redis | 2024 | [socialmedia.ahmadfiqrioemry.com](https://socialmedia.ahmadfiqrioemry.com) |
+| 🍲 **FoodBlog - Vue Recipe Showcase** | Frontend+API| Vue.js, Vite, Shadcn UI, Dummy API | 2023 | [foodblog.ahmadfiqrioemry.com](https://foodblog.ahmadfiqrioemry.com) |
+| 🏃 **FitLife - UI Prototype** | Prototype | Svelte, Shadcn UI | 2023 | [fitlife.ahmadfiqrioemry.com](https://fitlife.ahmadfiqrioemry.com) |
 
 ---
 
