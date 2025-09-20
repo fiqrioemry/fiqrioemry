@@ -10,13 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m a software developer who loves turning ideas into real, impactful applications. I enjoy building scalable backend systems and crafting clean, responsive frontend experiences. My toolkit includes Golang, Node.js (Express), Python (FastAPI) and modern frontend frameworks like React, Svelte, Vue, and Next.js.
-
-I’m also comfortable taking projects all the way to production, from coding to deploying with NGINX, Docker, and setting up automated CI/CD pipelines. Clean code, solid system design, and delivering end-to-end solutions are what drive me.
-
-I believe in learning something new every day. Along the way, I document what I learn and the challenges I face in articles on my blog:
-
-[my personal blog](https://blogprogramming.ahmadfiqrioemry.com)
+Hi, I’m a software developer who loves turning ideas into real, impactful applications. I enjoy building scalable backend systems and crafting clean, responsive frontend experiences. My toolkit includes Golang, Node.js (Express), Python (FastAPI) and modern frontend frameworks like React, Svelte, Vue, and Next.js. I’m also comfortable taking projects all the way to production, from coding to deploying with NGINX, Docker, and setting up automated CI/CD pipelines. Clean code, solid system design, and delivering end-to-end solutions are what drive me. I keep learning every day and following new updates on new technologies to stay sharp. Along the way, I document what I learn and the challenges I face in articles on my blog: [my personal blog](https://blogprogramming.ahmadfiqrioemry.com)
 
 ---
 
@@ -35,7 +29,7 @@ I believe in learning something new every day. Along the way, I document what I 
 
 ## 🚀 What I Do
 
-- Build reliable and scalable backend APIs and microservices with Go and Node.js  
+- Build reliable and scalable backend APIs and microservices with Go, Node.js and Python 
 - Craft smooth, interactive frontends using React, Svelte, and Nextjs  
 - Plan and deploy cloud-ready apps with Docker and automated CI/CD workflows  
 - Design user interfaces that feel intuitive and enjoyable to use  
@@ -45,20 +39,21 @@ I believe in learning something new every day. Along the way, I document what I 
 
 | Project | Type | Tech Stack | Year | Repo | Live |
 |---------|------|------------|------|------|------|
-| 🏨 **PesanHotel - Hotel Booking Platform** | Fullstack | Next.js, Prisma, Neon, BetterAuth, Stripe | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/username/pesanhotel) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://pesanhotel.showcasepreview.my.id) |
-| 🎟️ **Tiketku - Event Booking App** | Fullstack | SvelteKit (TS), Go (Gin), MySQL, Redis, Stripe | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/username/tiketku) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://tiketku.ahmadfiqrioemry.com) |
-| ✈️ **AI Travel Planner** | Frontend + API | React (TS), Firebase, Google Gemini API | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/username/aitravelplanner) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://aitravelplanner.ahmadfiqrioemry.com) |
-| 🏋️ **SweatUp - Fitness Booking App** | Fullstack | Go (Gin), React (JS), MySQL, Redis, Cloudinary, Stripe | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/username/sweatup) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://sweatup.ahmadfiqrioemry.com) |
-| 💬 **Social Media App** | Fullstack | Node.js, React, MySQL, MongoDB, Socket.IO, Redis | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/username/socialmedia) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://socialmedia.ahmadfiqrioemry.com) |
-| 🛒 **HappyShop - E-commerce Platform** | Fullstack | Go (Gin), React, MySQL, Redis, Midtrans | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/username/happyshop) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://happyshop.ahmadfiqrioemry.com) |
-| 🍲 **FoodBlog - Vue Recipe Showcase** | Frontend-only | Vue.js, Shadcn UI, Dummy API | 2022 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/username/foodblog) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://foodblog.ahmadfiqrioemry.com) |
-| 🏃 **FitLife - UI Prototype** | Prototype | Svelte, Shadcn UI | 2022 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/username/fitlife) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://fitlife.ahmadfiqrioemry.com) |
+| **PesanHotel - Hotel Booking Platform** | Fullstack | Next.js, Prisma, Neon, BetterAuth, Stripe | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/nextjs-prisma-hotel-booking-app) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://pesanhotel.showcasepreview.my.id) |
+| **Tiketku - Event Booking App** | Fullstack | SvelteKit (TS), Go (Gin), MySQL, Redis, Stripe | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/event-ticketing-system-application) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://tiketku.ahmadfiqrioemry.com) |
+| **AI Travel Planner** | Frontend + API | React (TS), Firebase, Google Gemini API | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/ai-travel-planner-application)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://aitravelplanner.ahmadfiqrioemry.com) |
+| **SweatUp - Fitness Booking App** | Fullstack | Go (Gin), React (JS), MySQL, Redis, Cloudinary, Stripe | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/fullstack-fitness-booking-application) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://sweatup.ahmadfiqrioemry.com) |
+| **Social Media App** | Fullstack | Node.js, React, MySQL, MongoDB, Socket.IO, Redis | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/fullstack-social-media-application)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://socialmedia.ahmadfiqrioemry.com) |
+| **HappyShop - E-commerce Platform** | Fullstack | Go (Gin), React, MySQL, Redis, Midtrans | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/fullstack-ecommerce-application) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://happyshop.ahmadfiqrioemry.com) |
+| **FoodBlog - Vue Recipe Showcase** | Frontend-only | Vue.js, Shadcn UI, Dummy API | 2022 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/vue-food-blog-web-application)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://foodblog.ahmadfiqrioemry.com) |
+| **FitLife - UI Prototype** | Prototype | Svelte, Shadcn UI | 2022 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/svelte-fitness-landing-page)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://fitlife.ahmadfiqrioemry.com) |
 
 
 ## 🌐 Find Me Online
 
 - 🌍 [ahmadfiqrioemry.com](https://ahmadfiqrioemry.com)  
 - 💼 [LinkedIn: ahmadfiqrioemry](https://linkedin.com/in/ahmadfiqrioemry)
+- 
 
 ---
 
