@@ -39,22 +39,21 @@ Hi, I’m a software developer who loves turning ideas into real, impactful appl
 
 | Project | Type | Tech Stack | Year | Repo | Live |
 |---------|------|------------|------|------|------|
-| **PesanHotel - Hotel Booking Platform** | Fullstack | Next.js, Prisma, Neon, BetterAuth, Stripe | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/nextjs-prisma-hotel-booking-app) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://pesanhotel.showcasepreview.my.id) |
-| **Tiketku - Event Booking App** | Fullstack | SvelteKit (TS), Go (Gin), MySQL, Redis, Stripe | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/event-ticketing-system-application) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://tiketku.ahmadfiqrioemry.com) |
-| **AI Travel Planner** | Frontend + API | React (TS), Firebase, Google Gemini API | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/ai-travel-planner-application)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://aitravelplanner.ahmadfiqrioemry.com) |
-| **SweatUp - Fitness Booking App** | Fullstack | Go (Gin), React (JS), MySQL, Redis, Cloudinary, Stripe | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/fullstack-fitness-booking-application) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://sweatup.ahmadfiqrioemry.com) |
-| **Social Media App** | Fullstack | Node.js, React, MySQL, MongoDB, Socket.IO, Redis | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/fullstack-social-media-application)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://socialmedia.ahmadfiqrioemry.com) |
-| **HappyShop - E-commerce Platform** | Fullstack | Go (Gin), React, MySQL, Redis, Midtrans | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/fullstack-ecommerce-application) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://happyshop.ahmadfiqrioemry.com) |
-| **FoodBlog - Vue Recipe Showcase** | Frontend-only | Vue.js, Shadcn UI, Dummy API | 2022 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/vue-food-blog-web-application)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://foodblog.ahmadfiqrioemry.com) |
-| **FitLife - UI Prototype** | Prototype | Svelte, Shadcn UI | 2022 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/svelte-fitness-landing-page)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://fitlife.ahmadfiqrioemry.com) |
+| *PesanHotel - Hotel Booking Platform* | Fullstack | Next.js, Prisma, Neon, BetterAuth, Stripe | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/nextjs-prisma-hotel-booking-app) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://pesanhotel.showcasepreview.my.id) |
+| *Tiketku - Event Booking Application* | Fullstack | SvelteKit (TS), Go (Gin), MySQL, Redis, Stripe | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/event-ticketing-system-application) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://tiketku.ahmadfiqrioemry.com) |
+| *AI Travel Planner* | Frontend + API | React (TS), Firebase, Google Gemini API | 2024 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/ai-travel-planner-application)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://aitravelplanner.ahmadfiqrioemry.com) |
+| *SweatUp - Fitness Booking Application* | Fullstack | Go (Gin), React (JS), MySQL, Redis, Cloudinary, Stripe | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/fullstack-fitness-booking-application) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://sweatup.ahmadfiqrioemry.com) |
+| *Social Media Application* | Fullstack | Node.js, React, MySQL, MongoDB, Socket.IO, Redis | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/fullstack-social-media-application)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://socialmedia.ahmadfiqrioemry.com) |
+| *HappyShop - E-commerce Platform* | Fullstack | Go (Gin), React, MySQL, Redis, Midtrans | 2023 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/fullstack-ecommerce-application) | [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://happyshop.ahmadfiqrioemry.com) |
+| *FoodBlog - Vue Recipe Showcase* | Frontend-only | Vue.js, Shadcn UI, Dummy API | 2022 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/vue-food-blog-web-application)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://foodblog.ahmadfiqrioemry.com) |
+| *FitLife - UI Prototype* | Prototype | Svelte, Shadcn UI | 2022 | [![Repo](https://img.shields.io/badge/code-000?style=flat&logo=github&logoColor=white)](https://github.com/fiqrioemry/svelte-fitness-landing-page)| [![Live](https://img.shields.io/badge/demo-0078D4?style=flat&logo=pinboard&logoColor=white)](https://fitlife.ahmadfiqrioemry.com) |
 
 
 ## 🌐 Find Me Online
 
 - 🌍 [ahmadfiqrioemry.com](https://ahmadfiqrioemry.com)  
 - 💼 [LinkedIn: ahmadfiqrioemry](https://linkedin.com/in/ahmadfiqrioemry)
-- 
-
+  
 ---
 
 ## 📈 GitHub Stats
@@ -62,6 +61,8 @@ Hi, I’m a software developer who loves turning ideas into real, impactful appl
 ![Fiqri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiqrioemry&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fiqrioemry&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
