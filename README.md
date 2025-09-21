@@ -58,9 +58,9 @@ Hi, I’m a software developer who loves turning ideas into real, impactful appl
 
 ## 📈 GitHub Stats
 
-![Fiqri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiqrioemry&show_icons=true&theme=radical)
+![Fiqri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiqrioemry&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
