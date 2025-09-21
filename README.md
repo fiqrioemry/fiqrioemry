@@ -1,4 +1,4 @@
-# Hello, I'm Fiqri Oemry 👋
+# Ahmad Fiqri Oemry
 
 [![Website](https://img.shields.io/badge/Website-ahmadfiqrioemry.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://ahmadfiqrioemry.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadfiqrioemry-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadfiqrioemry)
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m a software developer who loves turning ideas into real, impactful applications. I enjoy building scalable backend systems and crafting clean, responsive frontend experiences. My toolkit includes Golang, Node.js (Express), Python (FastAPI) and modern frontend frameworks like React, Svelte, Vue, and Next.js. I’m also comfortable taking projects all the way to production, from coding to deploying with NGINX, Docker, and setting up automated CI/CD pipelines. Clean code, solid system design, and delivering end-to-end solutions are what drive me. I keep learning every day and following new updates on new technologies to stay sharp. Along the way, I document what I learn and the challenges I face in articles on my blog: [my personal blog](https://blogprogramming.ahmadfiqrioemry.com)
+Hello, I’m a software developer who loves turning ideas into real, impactful applications. I enjoy building scalable backend systems and crafting clean, responsive frontend experiences. My toolkit includes Golang, Node.js (Express), Python (FastAPI) and modern frontend frameworks like React, Svelte, Vue, and Next.js. I’m also comfortable taking projects all the way to production, from coding to deploying with NGINX, Docker, and setting up automated CI/CD pipelines. Clean code, solid system design, and delivering end-to-end solutions are what drive me. I keep learning every day and following new updates on new technologies to stay sharp. Along the way, I document what I learn and the challenges I face in articles on my blog: [my personal blog](https://blogprogramming.ahmadfiqrioemry.com)
 
 ---
 
