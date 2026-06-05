@@ -8,6 +8,27 @@
 
 ---
 
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fiqrioemry&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=fiqrioemry&theme=radical&hide_border=true&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=f8f8f2&currStreakNum=ff79c6&sideNums=f8f8f2" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+</div>
+
 ## 👨‍💻 About Me
 
 Hello, I’m a software developer who loves turning ideas into real, impactful applications. I enjoy building scalable backend systems and crafting clean, responsive frontend experiences. My toolkit includes Golang, Node.js (Express), Python (FastAPI) and modern frontend frameworks like React, Svelte, Vue, and Next.js. I’m also comfortable taking projects all the way to production, from coding to deploying with NGINX, Docker, and setting up automated CI/CD pipelines. Clean code, solid system design, and delivering end-to-end solutions are what drive me. I keep learning every day and following new updates on new technologies to stay sharp. Along the way, I document what I learn and the challenges I face in articles on my blog: [my personal blog](https://blogprogramming.ahmadfiqrioemry.com)
@@ -54,32 +75,6 @@ Hello, I’m a software developer who loves turning ideas into real, impactful a
 - 🌍 [ahmadfiqrioemry.com](https://ahmadfiqrioemry.com)  
 - 💼 [LinkedIn: ahmadfiqrioemry](https://linkedin.com/in/ahmadfiqrioemry)
   
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fiqrioemry&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats-eight.vercel.app?user=fiqrioemry&theme=radical&hide_border=true&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=f8f8f2&currStreakNum=ff79c6&sideNums=f8f8f2" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fiqrioemry&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
-</div>
-
 ---
 
 <!-- Let's connect and build something amazing! -->
