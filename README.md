@@ -19,6 +19,8 @@
     <td>
       <img src="https://github-readme-streak-stats-eight.vercel.app?user=fiqrioemry&theme=radical&hide_border=true&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=f8f8f2&currStreakNum=ff79c6&sideNums=f8f8f2" alt="GitHub Streak" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" alt="Top Languages" />
     </td>
