@@ -70,11 +70,3 @@ Hello, I’m a software developer who loves turning ideas into real, impactful a
 </table>
 
 <br/>
-## 🌐 Find Me Online
-
-- 🌍 [ahmadfiqrioemry.com](https://ahmadfiqrioemry.com)  
-- 💼 [LinkedIn: ahmadfiqrioemry](https://linkedin.com/in/ahmadfiqrioemry)
-  
----
-
-<!-- Let's connect and build something amazing! -->
