@@ -58,8 +58,26 @@ Hello, I’m a software developer who loves turning ideas into real, impactful a
 
 ## 📈 GitHub Stats
 
-![Fiqri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiqrioemry&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical)
+## 📈 GitHub Stats
 
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fiqrioemry&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fiqrioemry&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fiqrioemry&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+
+</div>
 
 ---
 
